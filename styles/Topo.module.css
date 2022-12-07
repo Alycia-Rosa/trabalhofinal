@@ -1,0 +1,15 @@
+.topo {
+    display: flex;
+    background-color: black;
+    position: relative;
+}
+
+.topo p {
+    color: #fff;
+    text-decoration: none;
+    transition: .3s;
+}
+
+.topo p:hover{
+    color: #999;
+}

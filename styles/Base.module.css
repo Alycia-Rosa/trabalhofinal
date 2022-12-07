@@ -1,0 +1,8 @@
+.base{
+    background-color: palevioletred;
+    color: #ffebcd;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
